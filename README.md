@@ -4,10 +4,10 @@ Repositório do website criado para o processo seletivo MakersFellowship
 
 # Conteúdo
 1. [Branches](#branches)
-    1. [`Descrição das branches`](#descrição_das_branches)
-2. [Estrutura dos documentos](#estrutura_dos_documentos)
-3. [API NASA APOD](#api_nasa_apod)
-   1. [`Github da API`](#github_da_api)
+    1. [Descrição das branches](#descrição)
+2. [Estrutura dos documentos](#estrutura)
+3. [API NASA APOD](#api)
+   1. [Github da API](#github)
 
 ## Branches
 
