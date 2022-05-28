@@ -1,6 +1,6 @@
 # Universe Gallery
 
-Repositório do website criado para o processo seletivo MakersFellowship
+Repositório do website criado para o processo seletivo MakersFellowship. Nesse site será feito o consumo da API NASA APOD.
 
 ### Conteúdo
 1. [Branches](#branches)
@@ -11,15 +11,13 @@ Repositório do website criado para o processo seletivo MakersFellowship
 
 ## Branches
 
-Vamos usar o padrão de develop/feat/fix para todas as branchs que forem criadas. Desse modo, pode-se ter ideia de sua funcionalidade. Portanto, usem nomes descritivos e curtos.
+Será usado o padrão Gitflow.
 
 ### Descrição das branches <a name="descriçao"></a>
 
-`main` - É a branch principal do projeto, onde o nosso site estará rodando.
+`main` - É a branch principal do projeto, onde o site estará rodando.
 
-`release` - Serve para testar features relacionadas que estão acumuladas na branch `develop`. Se os testes ocorrerem bem, é daqui que o código irá para a branch `main`.
-
-`develop` - É a branch principal do desenvolvedor, onde serão jogadas as features.
+`develop` - Essa branch contém o código de pré-produção, onde farei as features.
 
 
 ## Estrutura dos documentos <a name="estrutura"></a>
