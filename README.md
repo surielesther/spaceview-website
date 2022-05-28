@@ -1,4 +1,4 @@
-# universe-gallery-website
+# Universe Gallery
 
 Repositório do website criado para o processo seletivo MakersFellowship
 
@@ -6,10 +6,8 @@ Repositório do website criado para o processo seletivo MakersFellowship
 1. [Branches](#branches)
     1. [Descrição das branches](#descrição_das_branches)
 2. [Estrutura dos documentos](#estrutura_dos_documentos)
-3. [APOD parser](#TheAPODParser)
-4. [Deployed](#Deployed)
-5. [Feedback](#feedback)
-6. [Author](#author)
+3. [API NASA APOD](#api_nasa_apod)
+    1.[Github da API](#github_da_api)
 
 ## Branches
 
