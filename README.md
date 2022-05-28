@@ -2,7 +2,7 @@
 
 Repositório do website criado para o processo seletivo MakersFellowship
 
-## Conteúdo
+### Conteúdo
 1. [Branches](#branches)
     1. [Descrição das branches](#descriçao)
 2. [Estrutura dos documentos](#estrutura)
