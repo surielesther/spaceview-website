@@ -1,4 +1,4 @@
-# Universe Gallery
+# SpaceView
 
 Repositório do website criado para o processo seletivo MakersFellowship. Nesse site será feito o consumo da API NASA APOD.
 
