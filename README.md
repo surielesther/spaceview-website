@@ -30,7 +30,6 @@ Essa é a estrutura de arquivos e pastas do projeto:
     │   README.md
     │
     └───/src
-        ├───/assets
         ├───/js
         │       requests.js
         │       script.js
@@ -38,6 +37,7 @@ Essa é a estrutura de arquivos e pastas do projeto:
         └───/styles
                 reset.css
                 styles.css
+                /assets
 ```
 
 `/src` -- Todo o código  do projeto
