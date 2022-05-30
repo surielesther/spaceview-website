@@ -135,6 +135,24 @@ body {
     
 }
 
+#button {
+    background: none;
+    color: white;
+    border: none;
+    height: 100px;
+    width: 150px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    font-family: "Raleway";
+    font-size: larger;
+  }
+
+  #button img {
+    height: 50px;
+    width: 50px;
+  }
+
 .title , .explanation , .copyright {
     font-family: "Raleway";
     font-weight: 500;

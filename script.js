@@ -20,7 +20,23 @@ galleryContainer.id = "galleryContainer";
 body.appendChild(divContainer);
 divContainer.appendChild(galleryContainer);
 
-const cards = document.getElementsByClassName("galleryCards");
+// const cards = document.getElementsByClassName("galleryCards");
+
+
+
+// const button = document.createElement("button")
+// button.id = "button"
+// // button.innerText = "Back to the top"
+// const btnImg = document.createElement("img")
+// btnImg.src = "./src/styles/assets/ÍCONES/SETA\ PARA\ CIMA"
+// button.appendChild(btnImg)
+// galleryContainer.appendChild(button)
+
+// button.addEventListener("click", function() {
+//     window.scrollTo(0, 0);
+// });
+
+
 
 function astronomyPicOfTheDay(object){
   console.log(object)
@@ -118,6 +134,20 @@ function createGallery(picture){
     galleryImg.className = "galleryImg"
     galleryImg.src = picture[i].hdurl
     galleryCards.appendChild(galleryImg)
+
+
+
+    const button = document.createElement("button")
+    button.id = "button"
+    // button.innerText = "Back to the top"
+    const btnImg = document.createElement("img")
+    btnImg.src = "./src/styles/assets/ÍCONES/SETA.png"
+    button.appendChild(btnImg)
+    galleryCards.appendChild(button)
+
+    button.addEventListener("click", function() {
+        window.scrollTo(0, 0);
+    });
   }
 
 }
