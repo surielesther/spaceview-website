@@ -54,11 +54,6 @@ function astronomyPicOfTheDay(object){
     title.className = "title"
     title.innerText = object.title
     apodTitle.appendChild(title)
-
-    const apod = document.createElement("p")
-    apod.id = "apodAA"
-    apod.innerText = "PICTURE OF THE DAY"
-    div.appendChild(apod)
     
     const p = document.createElement("p")
     p.className = "explanation"
@@ -108,11 +103,6 @@ function createGallery(picture){
     galleryPicTitle.className = "galleryPicTitle"
     galleryPicTitle.innerText = picture[i].title
     galleryTitle.appendChild(galleryPicTitle)
-
-    const spaceGallery = document.createElement("p")
-    spaceGallery.className = "spaceGallery"
-    spaceGallery.innerText = "SPACE GALLERY"
-    pictureInfos.appendChild(spaceGallery)
     
     const description = document.createElement("p")
     description.className = "explanation"
