@@ -179,3 +179,8 @@ myName.id = "myName"
 hrefLinkedin.className = "titlesAboutMe"
 hrefGithub.className = "titlesAboutMe"
 aboutMe.className = "aboutMe"
+
+const footer = document.createElement("footer")
+body.appendChild(footer)
+footer.innerText = "NASA® - All rights reserved. Unsplash® - All rights reserved."
+footer.id = "footer"
