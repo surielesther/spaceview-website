@@ -22,8 +22,6 @@ galleryContainer.appendChild(gallery)
 body.appendChild(divContainer);
 divContainer.appendChild(galleryContainer);
 
-// const cards = document.getElementsByClassName("galleryCards");
-
 function astronomyPicOfTheDay(object){
   
   let arr = []
