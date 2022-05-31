@@ -46,7 +46,7 @@ function astronomyPicOfTheDay(object){
     
     const apodIcon = document.createElement("img")
     apodIcon.className = "apodIcon"
-    apodIcon.src = "./src/styles/assets/ÍCONES/GALERIA.PNG"
+    apodIcon.src = "./src/styles/assets/ÍCONES/GALERIA.png"
     apodTitle.appendChild(apodIcon)
     
     const title = document.createElement("p")
@@ -91,7 +91,7 @@ function createGallery(picture){
     
     const apodIcon = document.createElement("img")
     apodIcon.className = "apodIcon"
-    apodIcon.src = "./src/styles/assets/ÍCONES/PLANETA.PNG"
+    apodIcon.src = "./src/styles/assets/ÍCONES/PLANETA.png"
     galleryTitle.appendChild(apodIcon)
     
     const galleryPicTitle = document.createElement("p")
