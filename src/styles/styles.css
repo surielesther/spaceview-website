@@ -176,11 +176,11 @@ body {
 
 .explanation {
     width: 40vw;
-    height: 50vh;
+    height: 45vh;
     font-size: 15px;
     letter-spacing: 1px;
     margin: 0%;
-    padding-top: 25vh;
+    padding-top: 35vh;
 }
 
 #apodAA {
@@ -291,8 +291,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 50vh;
     padding-top: 50vh;
-    padding-left: 10vw;
+    padding-left: 12vw;
+    justify-content: space-evenly;
 }
 
 #myInfos p {
